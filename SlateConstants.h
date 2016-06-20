@@ -3,7 +3,7 @@
 //  SlateCore
 //
 //  Created by yizelin on 12-3-30.
-//  Copyright (c) 2012年 Modern Mobile Digital Media Company Limited. All rights reserved.
+//  Copyright (c) 2012年 islate. All rights reserved.
 //
 
 #ifndef Slate_Constants_h
